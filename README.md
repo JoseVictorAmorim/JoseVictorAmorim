@@ -3,7 +3,7 @@
 ##About me
  
 - {🎓} { I'm graduating at Information Systems - Federal University of Lavras (Brazil) }
-![https://www.linkedin.com/in/josevictoramorim/](https://imgur.com/a/sJCFppG.png)
+![https://www.linkedin.com/in/josevictoramorim/](https://i.imgur.com/RwcIPQw.jpg)
 
 
 Here are some ideas to get you started:
