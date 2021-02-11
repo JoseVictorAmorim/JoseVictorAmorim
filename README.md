@@ -1,6 +1,6 @@
 ### Hello There! 👋
 
-### //About me
+### //About me 🎒
  
 - {🎓} { I'm graduating at Information Systems - Federal University of Lavras (Brazil) }
 
@@ -28,7 +28,7 @@
 
 ---
 
-### //Some interests 
+### //Some interests 👾
 
 ![C++](https://img.shields.io/badge/-C++-555555?style=flat&logo=c%2B%2B)
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5)
