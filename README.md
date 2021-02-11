@@ -1,7 +1,10 @@
-### Hi there 👋
+### Hello There! 👋
 
-<!--
-**JoseVictorAmorim/JoseVictorAmorim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+##About me
+ 
+- {🎓} { I'm graduating at Information Systems - Federal University of Lavras (Brazil) }
+![https://www.linkedin.com/in/josevictoramorim/](https://imgur.com/a/sJCFppG.png)
+
 
 Here are some ideas to get you started:
 
