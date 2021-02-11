@@ -28,8 +28,7 @@
 
 ---
 
-
-### //Interests
+### //Some interests 
 
 ![C++](https://img.shields.io/badge/-C++-555555?style=flat&logo=c%2B%2B)
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5)
@@ -41,9 +40,6 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-555555?style=flat&logo=node.js)
 ![Express](https://img.shields.io/badge/-ExpressJS-555555?style=flat&logo=express)
 
-
-
-→and more!
 ---
 
 
