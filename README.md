@@ -11,7 +11,7 @@
 <a target="_blank" href="https://www.linkedin.com/in/JoseVictorAmorim/">
   <img align="left" alt="LinkedIN" width="25px" src="https://logospng.org/download/linkedin/logo-linkedin-icon-2048.png" /> </a>
    
-  <a target="_blank" href="https://twitter.com/Xotave">
+  <a target="_blank" href="https://twitter.com/Jotavecomx">
   <img align="left" alt="Twitter" width="25px" src="https://upload.wikimedia.org/wikipedia/pt/thumb/3/3d/Twitter_logo_2012.svg/172px-Twitter_logo_2012.svg.png" />
 </a>
 
