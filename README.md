@@ -4,7 +4,7 @@
  
 - {🎓} { I'm graduating at Information Systems - Federal University of Lavras (Brazil) }
 
-- {👨🏽‍💻} { Actually, working as Product Owner at CompJúnior and IT Support Intern at SCA Sistemas} 
+- {👨🏽‍💻} { Actually, I'm Product Owner Intern at dti digital and Commercial Manager at Comp Júnior} 
 
 - {📫} (You'll find me here at any time){
 
